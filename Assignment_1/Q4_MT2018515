@@ -1,1 +1,7 @@
-bhdg
+Ques 4 - Can we do nested IF-Then else in CORTEX –M4?  
+
+Ans - No, we can't do nested IF-Then Else. Because, as per the ARM assembly ITE means if then else. 
+The number of T and E specify the number of times then and else can exist. 
+For example ITE will mean 1 then and 1 else. 
+For nested if, it needs to be put inside another if as per the rule, we can have only one then here. 
+Hence, we can't used nested If-Then-Else
