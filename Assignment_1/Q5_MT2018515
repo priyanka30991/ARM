@@ -1,0 +1,3 @@
+We can give an input to a hardware board through GPIO pins. It will generate an interrupt. This will be handled by an Interrupt Handler. 
+The processor will tak the input and then it will again return to the main program. A GPIO (general purpose input/output) pin lets you 
+either get input for your program from outside the CPU or to provide output to the user.
