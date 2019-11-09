@@ -1,8 +1,10 @@
-     AREA     factorial, CODE, READONLY
+;largest_number
+
+	 AREA     largest_number, CODE, READONLY
      EXPORT __main
      ENTRY 
 __main  FUNCTION	
-; IGNORE THIS PART 	
+	
 		MOV R0, #6  ; RO = 6
 		MOV R1, #2  ; R1 = 2
 		MOV R2, #4 ; R2 = 4
