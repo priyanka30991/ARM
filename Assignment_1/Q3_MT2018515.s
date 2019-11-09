@@ -1,4 +1,6 @@
-     AREA     factorial, CODE, READONLY
+;even_odd
+
+	 AREA     even_odd, CODE, READONLY
      EXPORT __main
      ENTRY 
 __main  FUNCTION	
