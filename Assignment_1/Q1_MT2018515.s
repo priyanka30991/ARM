@@ -1,4 +1,6 @@
-     AREA     factorial, CODE, READONLY
+     ;fibonacci_series
+	 
+	 AREA     fibonacci_series, CODE, READONLY
      EXPORT __main
      ENTRY 
 __main  FUNCTION	
