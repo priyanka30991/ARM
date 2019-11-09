@@ -1,8 +1,10 @@
-     AREA     factorial, CODE, READONLY
+     ;GCD
+	 
+	 AREA     GCD, CODE, READONLY
      EXPORT __main
      ENTRY 
 __main  FUNCTION	
-; IGNORE THIS PART 	
+	
 	    MOV R0, #15      ; R0=15
 		MOV R1, #3       ; R1=3
 LOOP    CMP  R0,R1       ; LOOP WILL EXECUTE TILL R0 IS NOT EQUAL TO R1
