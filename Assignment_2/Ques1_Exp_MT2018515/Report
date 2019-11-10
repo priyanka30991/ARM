@@ -1,0 +1,5 @@
+Report e^x series 
+Attached excel sheet contains the value of e^x for different values of x and 15,20,25,30,35 different iterations
+obtained from the ARM assembly code. Same sheet has the values of e^x values generated from the C code. 
+The values of both codes are compared and calculated the percentage error. 
+Graph showing the percentage error v/s different values of x.
