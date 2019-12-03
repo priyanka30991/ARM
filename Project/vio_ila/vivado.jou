@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Nov 28 19:12:23 2019
+# Process ID: 13060
+# Current directory: E:/iiitb/3rd_sem/ARM/project/vio_ila
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2800 E:\iiitb\3rd_sem\ARM\project\vio_ila\pra.xpr
+# Log file: E:/iiitb/3rd_sem/ARM/project/vio_ila/vivado.log
+# Journal file: E:/iiitb/3rd_sem/ARM/project/vio_ila\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/iiitb/3rd_sem/ARM/project/vio_ila/pra.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
