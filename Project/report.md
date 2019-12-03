@@ -17,7 +17,7 @@ Our project is based on synthesizing the verilog code of **Cortex M0 Processor**
 - Writing a code of factorial in Keil and show the output on the FPGA using LEDs.
 
 ## Block Diagram of the Hardware Module
-![Block Diagram of the Hardware Module](Project/images/block.jpeg)
+![Block Diagram of the Hardware Module](Project/pics/block.jpeg)
 
 ## Schematics
 - ## LED:
