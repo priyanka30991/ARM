@@ -17,38 +17,38 @@ Our project is based on synthesizing the verilog code of **Cortex M0 Processor**
 - Writing a code of factorial in Keil and show the output on the FPGA using LEDs.
 
 ## Block Diagram of the Hardware Module
-![Block Diagram of the Hardware Module](Project/Images/block.jpeg)
+![Block Diagram of the Hardware Module](Project/images/block.jpeg)
 
 ## Schematics
 - ## LED:
 
-![LED](Project/Images/sch_led.jpeg)
+![LED](Project/images/sch_led.jpeg)
 - ## VIO and ILA:
 
-![VIO and ILA](Project/Images/sch_vio.jpeg)
+![VIO and ILA](Project/images/sch_vio.jpeg)
 - ## 7 Segement Display:
 
-![7_Segement_Display](Project/Images/sch_7seg.jpeg)
+![7_Segement_Display](Project/images/sch_7seg.jpeg)
 
 ## Results:
 - ## VIO output at RESET:
 
-![VIO output at RESET](Project/Images/VIO_reset.jpeg)
+![VIO output at RESET](Project/images/VIO_reset.jpeg)
 - ## VIO output at RESET disabled:
 
-![VIO output at RESET disabled](Project/Images/VIO.jpeg)
+![VIO output at RESET disabled](Project/images/VIO.jpeg)
 - ## ILA output:
 
-![ILA output](Project/Images/ILA.jpeg)
+![ILA output](Project/images/ILA.jpeg)
 - ## LED output on FPGA:
 
-![LED output on FPGA](Project/Images/led.jpeg)
+![LED output on FPGA](Project/images/led.jpeg)
 - ## 7 Segment display:
 
-![7 Segment display](Project/Images/7seg.jpeg)
+![7 Segment display](Project/images/7seg.jpeg)
 - ## 7_Segment_Display when RESET:
 
-![7_Segment_Display when RESET](Project/Images/7seg_reset.jpeg)
+![7_Segment_Display when RESET](Project/images/7seg_reset.jpeg)
 
 ## Description & Problems Faced:
 - We tried displaying 2 values on hardware by giving some delay in the assembly code which had a loop that ran a counter. But, all the three means to display the output showed only the first value. 
