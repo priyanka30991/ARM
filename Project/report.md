@@ -28,7 +28,7 @@ Our project is based on synthesizing the verilog code of **Cortex M0 Processor**
 ![VIO and ILA](Project/images/sch_vio.jpeg)
 - ## 7 Segement Display:
 
-![7_Segement_Display](Project/images/sch_7seg.jpeg)
+![7_Segement_Display](ARM/Project/images/7seg.jpeg)
 
 ## Results:
 - ## VIO output at RESET:
